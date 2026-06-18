@@ -34,7 +34,13 @@ Não vale pra código, dado bruto ou texto técnico em que a fidelidade literal 
 
 ## Como instalar
 
-Baixe o arquivo `escrita-natural.skill` e suba nas configurações de skills do Claude. Depois é só pedir um texto em português que ela entra em ação, mesmo sem você citar "deixa mais natural" ou "tira a cara de tradução".
+Clone o repositório ou baixe e descompacte o ZIP:
+
+```bash
+git clone https://github.com/JoaoAreias/escrita-natural.git
+```
+
+A skill é a pasta `escrita-natural/`, com o `SKILL.md` e a pasta `references/` dentro. Copie essa pasta pro diretório de skills do Claude (o caminho exato depende do cliente que você usa) e ela passa a valer nas suas conversas, mesmo sem você citar "deixa mais natural" ou "tira a cara de tradução".
 
 ## Exemplo
 
@@ -51,3 +57,11 @@ Mesma mensagem, sem a estrutura do inglês e sem o entusiasmo de release corpora
 ## Créditos
 
 A parte de cara de IA é adaptada do guia "Signs of AI writing" da Wikipédia (projeto WikiProject AI Cleanup) e da skill humanizer. A parte de cara de tradução se apoia na pesquisa sobre translationese e nos universais da tradução: explicitação, simplificação, normalização, interferência e nivelamento.
+
+## Licença
+
+MIT. Veja o arquivo [`LICENSE`](LICENSE).
+
+---
+
+*Este README foi gerado por IA (Claude), usando a própria skill.*
