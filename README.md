@@ -51,7 +51,3 @@ Mesma mensagem, sem a estrutura do inglês e sem o entusiasmo de release corpora
 ## Créditos
 
 A parte de cara de IA é adaptada do guia "Signs of AI writing" da Wikipédia (projeto WikiProject AI Cleanup) e da skill humanizer. A parte de cara de tradução se apoia na pesquisa sobre translationese e nos universais da tradução: explicitação, simplificação, normalização, interferência e nivelamento.
-
-## Licença
-
-Sem licença definida ainda. Se for abrir pro público, vale escolher uma (a MIT é comum pra projetos assim).
